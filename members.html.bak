@@ -72,9 +72,9 @@
 	
 	
 	<header>
-		<div class="position"> <p class="name uppercase">Nada Attar</p> </div>			
+		<!--<div class="position"> <p class="name uppercase">Nada Attar</p> </div>-->		
 		
-		<!--<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>-->
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 		
 		<div class="position">
 			<p class="name uppercase">Nada Attar</p> 
@@ -227,7 +227,7 @@
  	<hr>
 
 
-members page edited -- 4:44 pm
+members page edited -- 4:47 pm
  		
 
  </section>
