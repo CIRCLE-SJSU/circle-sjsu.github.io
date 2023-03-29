@@ -45,7 +45,7 @@
 			<div class="menubar">
 				<ul class="topnav" id="myTopnav">
 					<li><a class="active" href="https://circle.github.io//index.html">Home</a></li>
-					<li><a href="https://circle.github.io//index.html">Publications</a></li>
+					<li><a href="https://circle.github.io//index.html>Publications</a></li>
 					<li><a href="https://circle.github.io//index.html">Members</a></li>
 					<!-- <li><a href="class/">Class</a></li> -->
 					<!-- <li class="icon">
@@ -58,7 +58,7 @@
 
 			<div class="wrapper">
 				<header>
-					<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>
+					<!--<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>-->
 					<div class="position">
 					  <p class="name uppercase"> Cross-Campus Interdisciplinary Responsible Computing Learning Experience(CIRCLE) </p>
 					  <a href="https://www.sjsu.edu/">San Jose State University</a><br><br>
@@ -89,15 +89,15 @@
 				<hr>
 				
 				<h3 class="uppercase"><img src="./CIRCLE_files/announcement.png" class="icon"> Impacts</h3>
-					<ul>
-					Preparation:
+					<h2> Preparation: </h2>
+					<ul>					
 						<li> Use real data collected by the diversity office at SJSU. We will process the data and transfer it into CIRCLE’s modules where students can use it in different courses. Students can use this dataset to analyze, apply data visualization, or classify it using algorithms. They will learn the impact of bias technology or evaluation methods on the dataset.</li>
 						<li> The CIRCLE Cafes will increase students and faculty exposures to topics on policies, building better technologies, etc.</li>
 						<li> Responsible computing libguide. </li>
 					</ul>
 					
+					<h2> Evaluation: </h2>
 					<ul>
-					Evaluation:
 						<li> We will provide evaluation pre and post each phase of CIRCLE project.  Assessments will also be used to measure the learning outcomes for students and the impact of the projects. </li>
 						<li> Narrative - Free response after; </li>
 						<li> Digital humanities - could share a story </li>
@@ -130,7 +130,7 @@
 		<br>
 
 	<footer>
-		<p>© 2022- Souvick Ghosh</p>
+		<p>© 2023- Souvick Ghosh</p>
 	</footer>
 
  
