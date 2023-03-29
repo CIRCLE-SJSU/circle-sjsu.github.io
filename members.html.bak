@@ -68,9 +68,8 @@
 	<div class="wrapper">
 	
 	<header>
+		<div class="position"> <p class="name uppercase">Nada Attar</p> </div>
 		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
-		
-		<p class="name uppercase"> Nada Attar </p> 
 		
 		<div class="position">
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -97,9 +96,8 @@
 	<hr>
 	
 	<header>
+		<div class="position"> <p class="name uppercase">Souvick Ghosh</p> </div>
 		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
-		
-		<p class="name uppercase">Souvick Ghosh</p> 
 		
 		<div class="position">
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -127,10 +125,9 @@
 	<hr>
 	
 	<header>
+		<div class="position"> <p class="name uppercase">Darra Hofman</p> </div>
 		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 		
-		<p class="name uppercase">Darra Hofman</p> 
-			
 		<div class="position">
 			<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
 			<span class="uppercase">Assistant Professor</span> <a href="https://ischoolapps.sjsu.edu/facultypages/view.php?fac=ghoshs">School of Information, San Jose State University </a>, <a href="http://comminfo.rutgers.edu/">School of Communication &amp; Information</a><br>				<span class="uppercase">Academic Coordinator</span> <a href="https://ischool.sjsu.edu/bachelor-science-information-science-and-data-analytics">Bachelor of Science in Information Science and Data Analytics</a><br>
@@ -157,9 +154,9 @@
 	
 	
 	<header>
-		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
+		<div class="position"> <p class="name uppercase">Saugher Nojan</p> </div>
 		
-		<p class="name uppercase">Saugher Nojan</p>
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 		
 		<div class="position">
 			<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -188,10 +185,11 @@
 	
 	
 	<header>
+	
+		<div class="position"> <p class="name uppercase">Michele Villagran</p> </div>
+		
 		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
-		
-		<p class="name uppercase">Michele Villagran</p>
-		
+				
 		<div class="position">
 			<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
 			<span class="uppercase">Assistant Professor</span> <a href="https://ischoolapps.sjsu.edu/facultypages/view.php?fac=ghoshs">School of Information, San Jose State University </a>, <a href="http://comminfo.rutgers.edu/">School of Communication &amp; Information</a><br>
