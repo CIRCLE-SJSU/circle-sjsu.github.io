@@ -68,7 +68,7 @@
 	<div class="wrapper">
 	
 	<header>
-		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 			<div class="position">
 			<p class="name uppercase">Nada Attar</p>
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -90,7 +90,7 @@
 	<hr>
 	
 	<header>
-		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 			<div class="position">
 			<p class="name uppercase">Souvick Ghosh</p>
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -100,10 +100,12 @@
 				<a href="https://www.sjsu.edu/">San Jose State University</a><br><br>
 
 				<img src="./CIRCLE_files/mail.png"> <a href="mailto:souvick.ghosh@sjsu.edu">souvick.ghosh@sjsu.edu</a><br>
-				<p><strong> Biography </strong>	<br>
-					Dr. Souvick “Vic” Ghosh is an Assistant Professor at the School of Information at San Jose State University. He is the Academic Coordinator for the undergraduate degree program (BS) in Information Science and Data Analytics and the Director of the Intelligent Conversational Agents and Neural Networks Lab (ICANN) at SJSU. Ghosh also serves as the AI Consultant for the InterPARES Trust AI and the Chair for the ASIS&amp T IDEA Artificial Intelligence Institute. Prior to joining SJSU, he completed his Ph.D. in Information Science from Rutgers University in 2020. He is a mixed methods researcher who combines interdisciplinary concepts from artificial intelligence, machine learning, and human-computer interaction (HCI) to improve voice-based assistants and design systems for the social good. He developed automated AI solutions for complex socio-technical problems such as cyberbullying, fake news, community question-answering, and PII (personally identifiable information) disclosure.
-				</p>
+				
 		</div>
+		
+		<p><strong> Biography </strong>	<br>
+			Dr. Souvick “Vic” Ghosh is an Assistant Professor at the School of Information at San Jose State University. He is the Academic Coordinator for the undergraduate degree program (BS) in Information Science and Data Analytics and the Director of the Intelligent Conversational Agents and Neural Networks Lab (ICANN) at SJSU. Ghosh also serves as the AI Consultant for the InterPARES Trust AI and the Chair for the ASIS&amp T IDEA Artificial Intelligence Institute. Prior to joining SJSU, he completed his Ph.D. in Information Science from Rutgers University in 2020. He is a mixed methods researcher who combines interdisciplinary concepts from artificial intelligence, machine learning, and human-computer interaction (HCI) to improve voice-based assistants and design systems for the social good. He developed automated AI solutions for complex socio-technical problems such as cyberbullying, fake news, community question-answering, and PII (personally identifiable information) disclosure.
+		</p>
 
 		<div class="clearfix"></div>
 	</header>
@@ -111,7 +113,7 @@
 	<hr>
 	
 	<header>
-		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 			<div class="position">
 			<p class="name uppercase">Darra Hofman</p> 
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -134,7 +136,7 @@
 	
 	
 	<header>
-		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 			<div class="position">
 			<p class="name uppercase">Saugher Nojan</p>
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
@@ -158,7 +160,7 @@
 	
 	
 	<header>
-		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>
+		<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="100""></div>
 			<div class="position">
 			<p class="name uppercase">Michele Villagran</p>
 				<span class="uppercase">Director</span> <a href="https://ischool.sjsu.edu/icann-lab">Intelligent Conversational Agents and Neural Networks (ICANN) Lab</a><br>
