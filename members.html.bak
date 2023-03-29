@@ -79,10 +79,11 @@
 		  
 				<img src="./CIRCLE_files/mail.png"> <a href="mailto:nada.attar@sjsu.edu">nada.attar@sjsu.edu</a><br>
 				
-				<p><strong> Biography </strong>	<br>
-					
-				</p>
 		</div>
+		
+		<p><strong> Biography </strong>	<br>
+					
+		</p>
 
 		<div class="clearfix"></div>
 	</header>
@@ -123,12 +124,13 @@
 				<a href="https://www.sjsu.edu/">San Jose State University</a><br><br>
 
 				<img src="./CIRCLE_files/mail.png"> <a href="mailto:souvick.ghosh@sjsu.edu">darra.hofman@sjsu.edu</a><br>
-				
-				<p><strong> Biography </strong>	<br>
-					
-				</p>
+			
 		</div>
-
+		
+		<p><strong> Biography </strong>	<br>
+					
+		</p>
+		
 		<div class="clearfix"></div>
 	</header>
 	
@@ -147,11 +149,10 @@
 		  
 				<img src="./CIRCLE_files/mail.png"> <a href="mailto:saugher.nojan@sjsu.edu">saugher.nojan@sjsu.edu</a><br>
 				
-				<p><strong> Biography </strong>	<br>
-					
-				</p>
 		</div>
-
+		<p><strong> Biography </strong>	<br>
+					
+		</p>
 		<div class="clearfix"></div>
 	</header>
 	
@@ -172,11 +173,10 @@
 		  
 				<img src="./CIRCLE_files/mail.png"> <a href="mailto:michele.villagran@sjsu.edu">michele.villagran@sjsu.edu</a><br>
 				
-				<p><strong> Biography </strong>	<br>
-					
-				</p>
 		</div>
-
+		<p><strong> Biography </strong>	<br>
+					
+		</p>
 		<div class="clearfix"></div>
 	</header>
 
