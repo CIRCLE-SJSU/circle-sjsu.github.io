@@ -22,7 +22,7 @@
         <ul class="topnav" id="myTopnav">
             <li><a class="active" href="https://circle-sjsu.github.io/index.html">Home</a></li>
             <li><a href="https://circle-sjsu.github.io/publications.html">Publications</a></li>
-            <li><a href="https://circle-sjsu.github.io/members-v2.html">Members</a></li>
+            <li><a href="https://circle-sjsu.github.io/members.html">Members</a></li>
         </ul>
     </nav>
   
@@ -38,7 +38,7 @@
         <main class="container">
             <section class="research-interests">
                 <h2 class="uppercase subtitle">Research Interests</h2>
-                <p>The Cross-Campus Interdisciplinary Responsible Computing Learning Experience (CIRCLE) Project is meant to bring students, faculty, and staff from all disciplines and backgrounds at San Jose State University - Silicon Valley’s public university, and one of the most diverse universities in the United States - into meaningful conversations about and engagement with digital technologies and their broader social impacts.</p>
+                <p>The Cross-Campus Interdisciplinary Responsible Computing Learning Experience (CIRCLE) Project... [content truncated for brevity]</p>
                 <p><strong>Application areas</strong>: Data Science, Human-Computer Interaction, EDI & Social Justice, Social Work.</p>
             </section>
 
@@ -47,24 +47,16 @@
                 <h3>Preparation</h3>
                 <ul>
                     <!-- List items -->
-					<li> Use real data collected by the diversity office at SJSU. We will process the data and transfer it into CIRCLE’s modules where students can use it in different courses. Students can use this dataset to analyze, apply data visualization, or classify it using algorithms. They will learn the impact of bias technology or evaluation methods on the dataset.</li>
-						<li> The CIRCLE Cafes will increase students and faculty exposures to topics on policies, building better technologies, etc.</li>
-						<li> Responsible computing libguide. </li>
                 </ul>
                 <h3>Evaluation</h3>
                 <ul>
                     <!-- List items -->
-					<li> We will provide evaluation pre and post each phase of CIRCLE project.  Assessments will also be used to measure the learning outcomes for students and the impact of the projects. </li>
-					<li> Narrative - Free response after; </li>
-					<li> Digital humanities - could share a story </li>
-					<li> For all the courses that we will create or revise, we will implement assessments that integrate CIRCLE goals, especially when designing and creating assignments and hands-on exercises.</li>
-					<li> Publications on the same venue can be also used to evaluate the impact of the project </li>
                 </ul>
             </section>
 
             <section class="announcements">
                 <h2 class="uppercase subtitle">Announcement</h2>
-                <p>We are looking for engaging and self-motivated students to work with us. If you are interested in working with us, send an email to me at <a href="mailto:souvick.ghosh@sjsu.edu">circle.project.sjsu@gmail.com</a> with your CV and a brief description of your previous research experiences &amp; current research interests.</p>
+                <p>We are looking for engaging and self-motivated students... [content truncated for brevity]</p>
             </section>
 
             <section class="news-updates">
