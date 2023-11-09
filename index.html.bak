@@ -1,138 +1,86 @@
 <!DOCTYPE html>
-	<!-->
-	<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<!-- Meta, title, CSS, favicons, etc. -->
-    
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.">
-	<meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development">
-	<meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.">
+    <meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <title>CIRCLE</title>
+    <link href="./CIRCLE_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./CIRCLE_files/docs.min.css" rel="stylesheet">
+    <link href="./CIRCLE_files/style.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="./CIRCLE_files/modernizr-2.0.6.min.js.download"></script>
+</head>
+<body>
+    <nav class="menubar">
+        <ul class="topnav" id="myTopnav">
+            <li><a class="active" href="https://circle-sjsu.github.io/index.html">Home</a></li>
+            <li><a href="https://circle-sjsu.github.io/publications.html">Publications</a></li>
+            <li><a href="https://circle-sjsu.github.io/members-v2.html">Members</a></li>
+        </ul>
+    </nav>
+  
+    <div class="wrapper">
+        <header class="site-header">
+            <h1 class="name uppercase">CIRCLE: Cross-Campus Interdisciplinary Responsible Computing Learning Experience</h1>
+            <p><a href="https://www.sjsu.edu/">San Jose State University</a><br>
+               One Washington Square, San José, CA 95192-0029<br>
+               <a href="mailto:souvick.ghosh@sjsu.edu">souvick.ghosh@sjsu.edu</a>
+            </p>
+        </header>
 
-	<title>
-		CIRCLE
-	</title>
+        <main class="container">
+            <section class="research-interests">
+                <h2 class="uppercase subtitle">Research Interests</h2>
+                <p>The Cross-Campus Interdisciplinary Responsible Computing Learning Experience (CIRCLE) Project is meant to bring students, faculty, and staff from all disciplines and backgrounds at San Jose State University - Silicon Valley’s public university, and one of the most diverse universities in the United States - into meaningful conversations about and engagement with digital technologies and their broader social impacts.</p>
+                <p><strong>Application areas</strong>: Data Science, Human-Computer Interaction, EDI & Social Justice, Social Work.</p>
+            </section>
 
-	<!-- Bootstrap core CSS -->
-	<link href="./CIRCLE_files/bootstrap.min.css" rel="stylesheet">
-
-	<!-- Optional Bootstrap Theme -->
-	<link href="data:text/css;charset=utf-8," data-href="http://getbootstrap.com/dist/css/bootstrap-theme.min.css" rel="stylesheet" id="bs-theme-stylesheet">
-
-	<!-- Documentation extras -->
-	<link href="./CIRCLE_files/docs.min.css" rel="stylesheet">
-
-	<!--[if lt IE 9]><script src="http://getbootstrap.com/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-	<script src="./CIRCLE_files/ie-emulation-modes-warning.js.download"></script>
-
-
-	<!-- Custom styles for this template -->
-	<link href="./CIRCLE_files/style.css" rel="stylesheet">
-
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
-
-	<!-- Modernizr / Respond -->
-
-	<script src="./CIRCLE_files/modernizr-2.0.6.min.js.download"></script>
-
-		</head>
-			<body data-new-gr-c-s-check-loaded="14.1080.0" data-gr-ext-installed="">
-
-			<div class="menubar">
-				<ul class="topnav" id="myTopnav">
-					<li><a class="active" href="https://circle-sjsu.github.io//index.html">Home</a></li>
-					<li><a href="https://circle-sjsu.github.io//index.html">Publications</a></li>
-					<li><a href="https://circle-sjsu.github.io//members.html"">Members</a></li>
-					<!-- <li><a href="class/">Class</a></li> -->
-					<!-- <li class="icon">
-					<a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
-					</li>-->
-				</ul>
-			</div>
-	  
-			<div class="clearfix"></div>
-
-			<div class="wrapper">
-				<header>
-					<!--<div class="image-holder">  <img src="./CIRCLE_files/sg-portrait.jpg" class=" img-rounded" width="200""></div>-->
-					<div class="position">
-					  <p class="name uppercase"> Cross-Campus Interdisciplinary Responsible Computing Learning Experience(CIRCLE) </p>
-					  <a href="https://www.sjsu.edu/">San Jose State University</a><br><br>
-
-					  <img src="./CIRCLE_files/location.png"> One Washington Square, San José, CA 95192-0029<br>
-					  <img src="./CIRCLE_files/mail.png"> <a href="mailto:souvick.ghosh@sjsu.edu">souvick.ghosh@sjsu.edu</a><br>
-					</div>
-
-					<div class="clearfix"></div>
-				</header>
-
-
-
-				<section class="container bundle">
-
-
-				<div class="clearfix"></div>
-		
-				<hr>
-		
-				<section class="container">
-				<h3 class="uppercase"><img src="./CIRCLE_files/star.png" class="icon"> Research Interests</h3>
-					<p> The Cross-Campus Interdisciplinary Responsible Computing Learning Experience (CIRCLE) Project is meant to bring students, faculty, and staff from all disciplines and backgrounds at San Jose State University - Silicon Valley’s public university, and one of the most diverse universities in the United States - into meaningful conversations about and engagement with digital technologies and their broader social impacts.</p>
-
-					<strong>Application areas</strong>: Data Science, Human-Computer Interaction, EDI &amp Social Justice, Social Work.
-					<p></p>
-
-				<hr>
-				
-				<h3 class="uppercase"><img src="./CIRCLE_files/announcement.png" class="icon"> Impacts</h3>
-					<h4 class> Preparation: </h4>
-					<ul>					
-						<li> Use real data collected by the diversity office at SJSU. We will process the data and transfer it into CIRCLE’s modules where students can use it in different courses. Students can use this dataset to analyze, apply data visualization, or classify it using algorithms. They will learn the impact of bias technology or evaluation methods on the dataset.</li>
+            <section class="impacts">
+                <h2 class="uppercase subtitle">Impacts</h2>
+                <h3>Preparation</h3>
+                <ul>
+                    <!-- List items -->
+					<li> Use real data collected by the diversity office at SJSU. We will process the data and transfer it into CIRCLE’s modules where students can use it in different courses. Students can use this dataset to analyze, apply data visualization, or classify it using algorithms. They will learn the impact of bias technology or evaluation methods on the dataset.</li>
 						<li> The CIRCLE Cafes will increase students and faculty exposures to topics on policies, building better technologies, etc.</li>
 						<li> Responsible computing libguide. </li>
-					</ul>
-					
-					<h4 class> Evaluation: </h4>
-					<ul>
-						<li> We will provide evaluation pre and post each phase of CIRCLE project.  Assessments will also be used to measure the learning outcomes for students and the impact of the projects. </li>
-						<li> Narrative - Free response after; </li>
-						<li> Digital humanities - could share a story </li>
-						<li> For all the courses that we will create or revise, we will implement assessments that integrate CIRCLE goals, especially when designing and creating assignments and hands-on exercises.</li>
-						<li> Publications on the same venue can be also used to evaluate the impact of the project </li>
-					</ul>
-					
-				<hr>
-				
-				<h3 class="uppercase"><img src="./CIRCLE_files/announcement.png" class="icon"> Announcement</h3>
-					<p>We are looking for engaging and self-motivated students to work with us. If you are interested in working with us, send an email to me at <a href="mailto:souvick.ghosh@sjsu.edu">circle.project.sjsu@gmail.com</a> with your CV and a brief description of your previous research experiences &amp; current research interests.</p>
-					
-				<hr>
+                </ul>
+                <h3>Evaluation</h3>
+                <ul>
+                    <!-- List items -->
+					<li> We will provide evaluation pre and post each phase of CIRCLE project.  Assessments will also be used to measure the learning outcomes for students and the impact of the projects. </li>
+					<li> Narrative - Free response after; </li>
+					<li> Digital humanities - could share a story </li>
+					<li> For all the courses that we will create or revise, we will implement assessments that integrate CIRCLE goals, especially when designing and creating assignments and hands-on exercises.</li>
+					<li> Publications on the same venue can be also used to evaluate the impact of the project </li>
+                </ul>
+            </section>
 
-				<h3 class="uppercase"><img src="./CIRCLE_files/news.png" class="icon"> News &amp; Updates</h3>
-					<ul>
-						Coming Soon.
-					</ul>
-				
-				<hr>
+            <section class="announcements">
+                <h2 class="uppercase subtitle">Announcement</h2>
+                <p>We are looking for engaging and self-motivated students to work with us. If you are interested in working with us, send an email to me at <a href="mailto:souvick.ghosh@sjsu.edu">circle.project.sjsu@gmail.com</a> with your CV and a brief description of your previous research experiences &amp; current research interests.</p>
+            </section>
 
-				<h3 class="uppercase"><img src="./CIRCLE_files/paper.png" class="icon">Recent publications</h3>
-					<ul>
-						Coming Soon.	
-					</ul>
-				
-				<hr>
+            <section class="news-updates">
+                <h2 class="uppercase subtitle">News & Updates</h2>
+                <p>Coming Soon.</p>
+            </section>
 
+            <section class="recent-publications">
+                <h2 class="uppercase subtitle">Recent Publications</h2>
+                <p>Coming Soon.</p>
+            </section>
+        </main>
 
-		<br>
-
-	<footer>
-		<p>© 2023- Souvick Ghosh</p>
-	</footer>
-
- 
-
+        <footer>
+            <p>© 2023- Souvick Ghosh</p>
+        </footer>
+    </div>
+</body>
 </html>
